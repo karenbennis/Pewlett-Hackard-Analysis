@@ -20,7 +20,7 @@ Throughout the anlysis of this data, queeries were performed to assemble tables 
 
 Queeries are documented in the file Queeries/queeries.sql.
 
-Exported CSV files based on the queeries are located in the Data folder.
+Exported CSV files based on the queeries are located in the Data folder. These files include: current_emp.csv, dept_counts.csv, dept_info.csv, emp_info.csv, manager_info.csv, retirement_info.csv, sales_dev_teams.csv, and sales_team.csv.
 
 
 ## Challenge
@@ -45,7 +45,7 @@ Finally, the last request was a list of employees born in 1965 who could become 
 
 Queeries for these additional deliverables are documented in the file Queeries/challenge.sql.
 
-Exported CSV files based on the queeries are located in the Data folder.
+Exported CSV files based on the queeries are located in the Data folder. These files include: current_titles_retiring.csv, mentors.csv, titles_retiring_counts, and titles_retiring.csv.
 
 
 ## Resources
