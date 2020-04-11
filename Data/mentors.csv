@@ -628,7 +628,7 @@ emp_no,first_name,last_name,title,from_date,to_date
 222952,Gopalakrishnan,Suermann,Senior Engineer,1998-04-30,9999-01-01
 223593,Hidefumi,Moehrke,Staff,1998-03-04,9999-01-01
 223595,Chiranjit,Dredge,Technique Leader,1999-09-05,9999-01-01
-224390,True,Shobatake,Senior Staff,1996-05-17,9999-01-01
+224390,TRUE,Shobatake,Senior Staff,1996-05-17,9999-01-01
 224135,Annemarie,Bressoud,Engineer,1998-06-23,9999-01-01
 224335,Perry,Chachaty,Senior Engineer,1992-07-22,9999-01-01
 224934,George,Miake,Senior Staff,1996-01-02,9999-01-01
@@ -711,7 +711,7 @@ emp_no,first_name,last_name,title,from_date,to_date
 239706,Arunas,Bugrara,Assistant Engineer,1997-04-03,9999-01-01
 239748,Bilhanan,Dusink,Senior Staff,1996-06-04,9999-01-01
 240132,Mizuhito,Kobara,Senior Staff,2001-08-09,9999-01-01
-240236,True,Tischendorf,Senior Engineer,1992-01-19,9999-01-01
+240236,TRUE,Tischendorf,Senior Engineer,1992-01-19,9999-01-01
 240438,Temple,Cyre,Senior Staff,1999-10-01,9999-01-01
 240285,Kolar,Greenaway,Staff,1998-11-14,9999-01-01
 240340,Mack,Staylopatis,Senior Engineer,1991-04-02,9999-01-01

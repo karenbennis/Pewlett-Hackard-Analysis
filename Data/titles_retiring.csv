@@ -1190,7 +1190,7 @@ emp_no,first_name,last_name,title,from_date,salary
 15548,Sanjai,Caine,Senior Engineer,1997-05-08,48171
 15563,Constantino,Zykh,Senior Staff,1994-04-08,56239
 15563,Constantino,Zykh,Staff,1987-04-08,56239
-15565,True,Muchinsky,Senior Staff,1986-12-16,73532
+15565,TRUE,Muchinsky,Senior Staff,1986-12-16,73532
 15566,Baoqiu,Azuma,Senior Staff,1988-04-11,61655
 15569,Rosalie,Garnick,Senior Staff,1997-07-04,40000
 15569,Rosalie,Garnick,Staff,1988-07-04,40000
@@ -2250,7 +2250,7 @@ emp_no,first_name,last_name,title,from_date,salary
 20408,Debatosh,Smailagic,Senior Engineer,1995-04-04,40000
 20416,Oddvar,Swiler,Engineer,1985-08-07,40000
 20456,Sigeru,Highland,Engineer,1997-08-16,46657
-20425,True,Schapiro,Staff,1998-12-27,40000
+20425,TRUE,Schapiro,Staff,1998-12-27,40000
 20435,Oguz,Homond,Senior Staff,1993-06-06,71488
 20435,Oguz,Homond,Staff,1988-06-06,71488
 20436,Rasiah,Kavraki,Senior Staff,1998-12-03,69600
@@ -6103,9 +6103,9 @@ emp_no,first_name,last_name,title,from_date,salary
 37717,Arunachalam,Lichtman,Senior Staff,1996-03-27,84584
 37717,Arunachalam,Lichtman,Staff,1987-03-28,84584
 37768,Taizo,Carrere,Engineer,1986-11-03,63585
-37720,True,Samarati,Engineer,1987-06-15,40000
+37720,TRUE,Samarati,Engineer,1987-06-15,40000
 37768,Taizo,Carrere,Senior Engineer,1992-11-02,63585
-37720,True,Samarati,Senior Engineer,1996-06-14,40000
+37720,TRUE,Samarati,Senior Engineer,1996-06-14,40000
 37777,Gaurav,Vidal,Engineer,1986-05-03,58844
 37724,Owen,Gronowski,Senior Staff,1997-01-16,45938
 37777,Gaurav,Vidal,Senior Engineer,1991-05-03,58844
@@ -9069,8 +9069,8 @@ emp_no,first_name,last_name,title,from_date,salary
 51455,Jinpo,Schnabel,Senior Engineer,1992-01-06,78373
 51177,Hironoby,Birsak,Engineer,1999-07-14,51243
 51190,Sivanarayana,Zedlitz,Engineer,1992-08-24,50358
-51476,True,Gerlach,Senior Staff,1995-10-01,73508
-51476,True,Gerlach,Staff,1986-10-01,73508
+51476,TRUE,Gerlach,Senior Staff,1995-10-01,73508
+51476,TRUE,Gerlach,Staff,1986-10-01,73508
 51478,Khaled,Markovitch,Engineer,1986-02-27,65695
 51478,Khaled,Markovitch,Senior Engineer,1995-02-27,65695
 51481,Satoru,Wilfing,Senior Staff,1995-04-09,75376
@@ -12095,7 +12095,7 @@ emp_no,first_name,last_name,title,from_date,salary
 64802,Vasilii,Boyle,Staff,1993-01-31,49987
 65199,Ipke,Spataro,Senior Staff,1985-03-02,78239
 64823,Shaleah,Bade,Senior Engineer,1993-03-05,62007
-65211,True,Hofstetter,Senior Staff,1993-12-01,75235
+65211,TRUE,Hofstetter,Senior Staff,1993-12-01,75235
 65215,Joydip,Garnham,Staff,1997-10-20,57902
 65216,Masato,Leuchs,Engineer,1995-04-29,40000
 65216,Masato,Leuchs,Senior Engineer,2001-04-28,40000
@@ -12577,7 +12577,7 @@ emp_no,first_name,last_name,title,from_date,salary
 67357,Pradeep,Millington,Staff,1987-04-08,40230
 67426,Haldun,Geffroy,Senior Engineer,1989-01-28,40000
 67428,Dharmaraja,Diderrich,Engineer,1997-01-17,40000
-67358,True,Staudhammer,Engineer,1998-07-03,40000
+67358,TRUE,Staudhammer,Engineer,1998-07-03,40000
 67362,Ranga,Cardazo,Senior Staff,1994-11-10,40000
 67438,Niranjan,Makinen,Engineer,1989-12-04,40000
 67438,Niranjan,Makinen,Senior Engineer,1997-12-04,40000
@@ -14484,9 +14484,9 @@ emp_no,first_name,last_name,title,from_date,salary
 75952,Luerbio,Toyoshima,Engineer,1993-01-18,47326
 75952,Luerbio,Toyoshima,Senior Engineer,2001-01-18,47326
 75956,Zine,Gaughan,Engineer,1995-01-21,40000
-76030,True,Jakobus,Senior Staff,2000-06-29,40000
+76030,TRUE,Jakobus,Senior Staff,2000-06-29,40000
 75956,Zine,Gaughan,Senior Engineer,2001-01-20,40000
-76030,True,Jakobus,Staff,1991-06-30,40000
+76030,TRUE,Jakobus,Staff,1991-06-30,40000
 75965,Geraldo,Babu,Senior Staff,1998-09-29,40000
 75965,Geraldo,Babu,Staff,1989-09-29,40000
 76050,Perry,Pramanik,Engineer,1988-01-27,46334
@@ -14507,7 +14507,7 @@ emp_no,first_name,last_name,title,from_date,salary
 76092,Manohar,Sevcikova,Staff,1986-07-21,40000
 75994,Muzhong,Michaeli,Staff,1986-04-01,64613
 75996,Eberhardt,Langford,Engineer,1989-03-18,40000
-76104,True,Garrabrants,Staff,1994-09-12,45296
+76104,TRUE,Garrabrants,Staff,1994-09-12,45296
 75996,Eberhardt,Langford,Senior Engineer,1997-03-18,40000
 76006,Filipp,Vakili,Engineer,1985-04-16,40000
 76121,Ioana,Vakili,Engineer,1986-11-10,40000
@@ -15443,8 +15443,8 @@ emp_no,first_name,last_name,title,from_date,salary
 80092,Yucel,Wilharm,Engineer,1993-10-07,76550
 80092,Yucel,Wilharm,Senior Engineer,1998-10-07,76550
 80031,Wayne,Bach,Engineer,1986-05-15,60298
-80098,True,Kusakabe,Senior Staff,1993-10-01,53636
-80098,True,Kusakabe,Staff,1986-10-01,53636
+80098,TRUE,Kusakabe,Senior Staff,1993-10-01,53636
+80098,TRUE,Kusakabe,Staff,1986-10-01,53636
 80104,Masami,Oehlmann,Senior Engineer,1992-07-20,40000
 80128,Genta,Ushiama,Engineer,1988-09-04,40000
 80128,Genta,Ushiama,Senior Engineer,1997-09-04,40000
@@ -16133,9 +16133,9 @@ emp_no,first_name,last_name,title,from_date,salary
 82849,Makato,VanScheik,Staff,1985-10-12,40000
 82856,Hidefumi,Erez,Engineer,1988-07-02,40000
 82856,Hidefumi,Erez,Senior Engineer,1993-07-02,40000
-82858,True,Taubman,Senior Staff,1995-06-25,62709
+82858,TRUE,Taubman,Senior Staff,1995-06-25,62709
 82944,Alois,Gomatam,Technique Leader,1993-02-18,40000
-82858,True,Taubman,Staff,1986-06-25,62709
+82858,TRUE,Taubman,Staff,1986-06-25,62709
 82956,Sudhanshu,Sundgren,Senior Staff,1994-08-03,62554
 82956,Sudhanshu,Sundgren,Staff,1986-08-03,62554
 82859,Erez,Gluchowski,Engineer,1989-10-25,41136
@@ -17094,8 +17094,8 @@ emp_no,first_name,last_name,title,from_date,salary
 87043,Fay,Anily,Engineer,1993-06-30,56191
 87043,Fay,Anily,Senior Engineer,1999-06-30,56191
 86905,Alenka,Streng,Engineer,1990-10-30,48552
-87047,True,Beilner,Senior Staff,1995-05-15,40000
-87047,True,Beilner,Staff,1986-05-15,40000
+87047,TRUE,Beilner,Senior Staff,1995-05-15,40000
+87047,TRUE,Beilner,Staff,1986-05-15,40000
 87050,Kiyokazu,Sgarro,Engineer,1998-02-11,51213
 87054,Szabolcs,Kandlur,Engineer,1991-11-22,74494
 87054,Szabolcs,Kandlur,Senior Engineer,1998-11-22,74494
@@ -20080,8 +20080,8 @@ emp_no,first_name,last_name,title,from_date,salary
 100680,Xiping,Duclos,Senior Staff,1996-03-28,65045
 100406,Yoshinari,Coors,Senior Staff,1990-10-11,67911
 100682,Ingemar,Pepe,Engineer,1999-11-13,49296
-100686,True,Beausoleil,Senior Staff,1994-06-14,75314
-100686,True,Beausoleil,Staff,1987-06-14,75314
+100686,TRUE,Beausoleil,Senior Staff,1994-06-14,75314
+100686,TRUE,Beausoleil,Staff,1987-06-14,75314
 100406,Yoshinari,Coors,Staff,1985-10-11,67911
 100413,Mara,Schurmann,Engineer,1990-06-10,70562
 100698,Gino,Atrawala,Senior Staff,1995-11-06,45457
@@ -21118,8 +21118,8 @@ emp_no,first_name,last_name,title,from_date,salary
 105533,Zijian,Falby,Engineer,1986-01-11,40000
 105533,Zijian,Falby,Senior Engineer,1993-01-11,40000
 105541,Otmar,Gils,Technique Leader,1995-09-23,40000
-105543,True,Fabrizio,Engineer,1986-11-25,60981
-105543,True,Fabrizio,Senior Engineer,1993-11-25,60981
+105543,TRUE,Fabrizio,Engineer,1986-11-25,60981
+105543,TRUE,Fabrizio,Senior Engineer,1993-11-25,60981
 105544,Feiyu,Mitsuhashi,Senior Engineer,1994-08-29,40000
 105489,Jasminko,Sadowski,Senior Staff,1993-10-28,78258
 105546,Dhritiman,Coombs,Senior Engineer,1988-07-02,40000
@@ -22668,7 +22668,7 @@ emp_no,first_name,last_name,title,from_date,salary
 202420,Shaleah,Wuwongse,Engineer,1986-06-22,44208
 202423,Bikash,Veeraraghavan,Senior Staff,1995-05-08,65110
 202423,Bikash,Veeraraghavan,Staff,1988-05-07,65110
-202427,True,Ghandeharizadeh,Technique Leader,1987-08-15,40000
+202427,TRUE,Ghandeharizadeh,Technique Leader,1987-08-15,40000
 202353,Zhiwei,Pashtan,Senior Engineer,2001-06-08,40000
 202432,Aloys,Heering,Assistant Engineer,1987-11-03,56095
 202432,Aloys,Heering,Engineer,1995-11-03,56095
@@ -29724,9 +29724,9 @@ emp_no,first_name,last_name,title,from_date,salary
 234847,Alexius,Wallrath,Staff,1986-05-28,40000
 234848,Xiaobin,Bael,Senior Engineer,1986-11-06,40000
 234853,Insup,Szemeredi,Senior Engineer,1985-03-12,40000
-234677,True,Juneja,Senior Staff,1994-08-13,53296
+234677,TRUE,Juneja,Senior Staff,1994-08-13,53296
 234854,Marit,Sevcikova,Staff,1998-07-13,86278
-234677,True,Juneja,Staff,1985-08-13,53296
+234677,TRUE,Juneja,Staff,1985-08-13,53296
 234690,Dmitri,Bridgland,Senior Engineer,1996-12-24,61316
 234874,Conal,Cronin,Engineer,1986-02-16,53713
 234874,Conal,Cronin,Senior Engineer,1991-02-16,53713
@@ -29744,7 +29744,7 @@ emp_no,first_name,last_name,title,from_date,salary
 234929,Tonia,Chepyzhov,Staff,1996-09-28,65010
 234930,Basant,Erev,Engineer,1986-11-02,52784
 234930,Basant,Erev,Senior Engineer,1992-11-01,52784
-234932,True,Brodie,Senior Staff,1993-04-28,80717
+234932,TRUE,Brodie,Senior Staff,1993-04-28,80717
 234934,Caolyn,Azumi,Staff,1996-05-09,52985
 235024,Sariel,VanScheik,Staff,1985-07-15,74905
 235028,Yucai,Juneja,Senior Engineer,1994-05-30,40000
@@ -31007,7 +31007,7 @@ emp_no,first_name,last_name,title,from_date,salary
 240661,Gao,Jiafu,Senior Staff,1992-12-18,56348
 240826,Weidon,Paludetto,Staff,1993-08-07,87407
 240834,Basil,Gelosh,Engineer,2000-01-02,40000
-240835,True,Billingsley,Engineer,1987-12-06,63237
+240835,TRUE,Billingsley,Engineer,1987-12-06,63237
 240840,Supot,Dredge,Engineer,1987-03-29,61142
 240840,Supot,Dredge,Senior Engineer,1992-03-28,61142
 240841,Muzhong,Hiltgen,Engineer,1986-02-07,40474
@@ -32584,7 +32584,7 @@ emp_no,first_name,last_name,title,from_date,salary
 248600,Gio,Condotta,Senior Staff,1996-08-31,46533
 248600,Gio,Condotta,Staff,1988-08-31,46533
 248609,Eirik,Chimia,Engineer,1995-01-20,46767
-248614,True,Rodiger,Staff,1996-07-22,48798
+248614,TRUE,Rodiger,Staff,1996-07-22,48798
 248669,Mansur,Perz,Staff,1994-09-05,74539
 248626,Yolla,Gruenwald,Senior Engineer,1991-12-19,44424
 248627,Arvin,Desikan,Senior Staff,1992-11-01,40000
@@ -33199,13 +33199,13 @@ emp_no,first_name,last_name,title,from_date,salary
 251404,Ipke,Schapire,Staff,1987-11-04,89837
 251464,Junichi,Talmon,Senior Staff,1993-06-29,70706
 251464,Junichi,Talmon,Staff,1986-06-29,70706
-251419,True,Frolund,Engineer,1986-05-21,40000
+251419,TRUE,Frolund,Engineer,1986-05-21,40000
 251470,Sadegh,Mungall,Engineer,1986-10-06,59253
 251470,Sadegh,Mungall,Senior Engineer,1992-10-05,59253
 251472,Anwar,Huxford,Senior Staff,1995-09-01,61197
 251472,Anwar,Huxford,Staff,1987-09-01,61197
 251474,Anwar,Kolvik,Engineer,1995-11-17,64458
-251419,True,Frolund,Senior Engineer,1995-05-21,40000
+251419,TRUE,Frolund,Senior Engineer,1995-05-21,40000
 251478,Kamakshi,Maquelin,Engineer,1985-04-11,52510
 251526,Taisook,Tchuente,Staff,1997-06-24,58125
 251478,Kamakshi,Maquelin,Senior Engineer,1993-04-11,52510
@@ -33346,9 +33346,9 @@ emp_no,first_name,last_name,title,from_date,salary
 252221,Ortrun,Camarinopoulos,Senior Engineer,1989-02-23,46226
 252223,Jacopo,Ebeling,Technique Leader,1985-07-10,40000
 252159,Collette,Shobatake,Engineer,1986-06-11,53265
-252224,True,Heiserman,Assistant Engineer,1986-03-16,47034
-252224,True,Heiserman,Engineer,1993-03-16,47034
-252224,True,Heiserman,Senior Engineer,2000-03-16,47034
+252224,TRUE,Heiserman,Assistant Engineer,1986-03-16,47034
+252224,TRUE,Heiserman,Engineer,1993-03-16,47034
+252224,TRUE,Heiserman,Senior Engineer,2000-03-16,47034
 252230,Nitsan,Kusalik,Engineer,1986-01-16,72744
 252230,Nitsan,Kusalik,Senior Engineer,1993-01-16,72744
 252235,Spyrose,Litzkow,Assistant Engineer,1989-12-21,40000
@@ -34696,8 +34696,8 @@ emp_no,first_name,last_name,title,from_date,salary
 258371,Udi,Ciolek,Staff,1986-06-24,82944
 258451,Nahla,Menhardt,Senior Staff,1990-02-09,57052
 258375,Marlo,Demos,Senior Staff,1999-01-05,40000
-258457,True,Gihr,Senior Staff,2002-02-11,80523
-258457,True,Gihr,Staff,1997-02-11,80523
+258457,TRUE,Gihr,Senior Staff,2002-02-11,80523
+258457,TRUE,Gihr,Staff,1997-02-11,80523
 258375,Marlo,Demos,Staff,1992-01-05,40000
 258385,Tsz,Vesna,Senior Staff,2000-07-21,63714
 258473,Abdulah,Hellwagner,Assistant Engineer,1991-11-23,44989
@@ -37366,7 +37366,7 @@ emp_no,first_name,last_name,title,from_date,salary
 270322,Dannz,Zastre,Engineer,1987-10-06,47491
 270322,Dannz,Zastre,Senior Engineer,1992-10-05,47491
 270313,Vidya,Swift,Staff,1986-01-13,46605
-270318,True,Macedo,Staff,1994-09-02,40000
+270318,TRUE,Macedo,Staff,1994-09-02,40000
 270339,Sashi,Hanratty,Engineer,1992-05-07,40113
 270339,Sashi,Hanratty,Senior Engineer,2001-05-07,40113
 270348,Nitsan,Rubsam,Senior Staff,1997-12-06,40000
@@ -38573,8 +38573,8 @@ emp_no,first_name,last_name,title,from_date,salary
 275988,Teiji,Kamber,Staff,1994-09-11,77812
 276046,Sanjai,Hartvigsen,Senior Staff,1992-10-13,64857
 276046,Sanjai,Hartvigsen,Staff,1986-10-14,64857
-276053,True,Lyonns,Senior Staff,1992-06-06,69751
-276053,True,Lyonns,Staff,1985-06-06,69751
+276053,TRUE,Lyonns,Senior Staff,1992-06-06,69751
+276053,TRUE,Lyonns,Staff,1985-06-06,69751
 276054,Manohar,Gils,Engineer,1985-12-12,40000
 276054,Manohar,Gils,Senior Engineer,1994-12-12,40000
 276056,Piyawadee,Frezza,Engineer,1993-11-27,40000
@@ -40130,8 +40130,8 @@ emp_no,first_name,last_name,title,from_date,salary
 283323,Masami,Wiegley,Senior Engineer,1996-07-09,40000
 283230,Radhia,Krupka,Senior Staff,1999-02-13,60006
 283230,Radhia,Krupka,Staff,1992-02-13,60006
-283337,True,Bernatsky,Engineer,1989-04-23,62713
-283337,True,Bernatsky,Senior Engineer,1994-04-23,62713
+283337,TRUE,Bernatsky,Engineer,1989-04-23,62713
+283337,TRUE,Bernatsky,Senior Engineer,1994-04-23,62713
 283237,Yinlin,Erdmenger,Engineer,1985-07-16,58563
 283349,Elgin,Zolotykh,Engineer,1985-03-15,40000
 283349,Elgin,Zolotykh,Senior Engineer,1994-03-15,40000
@@ -40383,8 +40383,8 @@ emp_no,first_name,last_name,title,from_date,salary
 284343,Jeanne,Velardi,Engineer,1996-12-09,47307
 284343,Jeanne,Velardi,Senior Engineer,2001-12-09,47307
 284359,Shaowen,Warwick,Senior Staff,1995-10-08,63154
-284411,True,Lorin,Engineer,1985-06-25,40000
-284411,True,Lorin,Senior Engineer,1994-06-25,40000
+284411,TRUE,Lorin,Engineer,1985-06-25,40000
+284411,TRUE,Lorin,Senior Engineer,1994-06-25,40000
 284423,Sudharsan,Szmurlo,Senior Staff,1986-03-06,68726
 284359,Shaowen,Warwick,Staff,1987-10-08,63154
 284360,Kwun,Sommen,Technique Leader,1988-10-08,49745
@@ -40581,8 +40581,8 @@ emp_no,first_name,last_name,title,from_date,salary
 285165,Peer,Rajcani,Senior Engineer,1998-08-22,40000
 285178,Valdiodio,Stanfel,Engineer,1988-08-12,40000
 285178,Valdiodio,Stanfel,Senior Engineer,1996-08-12,40000
-285181,True,Ullian,Engineer,1987-06-03,52306
-285181,True,Ullian,Senior Engineer,1992-06-02,52306
+285181,TRUE,Ullian,Engineer,1987-06-03,52306
+285181,TRUE,Ullian,Senior Engineer,1992-06-02,52306
 285189,Yongqiao,Roccetti,Senior Engineer,1991-06-30,71015
 285193,Ayakannu,Luga,Staff,1988-04-11,40000
 285203,Domenick,Hasenauer,Senior Staff,1987-11-15,47632
@@ -43591,8 +43591,8 @@ emp_no,first_name,last_name,title,from_date,salary
 298802,Shan,Muchinsky,Staff,1993-02-27,96892
 298819,Kinh,Showalter,Assistant Engineer,1987-02-08,40000
 298819,Kinh,Showalter,Engineer,1995-02-08,40000
-298835,True,Scallan,Engineer,1986-05-24,49675
-298835,True,Scallan,Senior Engineer,1993-05-24,49675
+298835,TRUE,Scallan,Engineer,1986-05-24,49675
+298835,TRUE,Scallan,Senior Engineer,1993-05-24,49675
 298844,Vojin,Morrin,Engineer,1988-05-01,40000
 298844,Vojin,Morrin,Senior Engineer,1994-05-01,40000
 298850,Yuqun,Sudkamp,Engineer,1991-02-09,40000
@@ -50718,7 +50718,7 @@ emp_no,first_name,last_name,title,from_date,salary
 432317,Lucian,Pluym,Senior Engineer,1988-04-06,46113
 432318,Khedija,Krohm,Senior Engineer,1999-08-10,50133
 432320,Luise,Bridgland,Staff,1996-01-31,49403
-432324,True,Fiebach,Engineer,1999-06-06,40000
+432324,TRUE,Fiebach,Engineer,1999-06-06,40000
 432338,Yishay,Hofting,Engineer,1990-06-21,85174
 432341,Saddek,Shihab,Senior Engineer,1997-08-20,40000
 432356,Yakichi,Viele,Technique Leader,1985-03-02,62681
@@ -53076,8 +53076,8 @@ emp_no,first_name,last_name,title,from_date,salary
 443666,Bluma,Cherinka,Senior Engineer,1993-11-25,48698
 443676,Masasuke,Gide,Senior Staff,1995-08-26,66175
 443676,Masasuke,Gide,Staff,1989-08-26,66175
-443677,True,Parfitt,Senior Staff,1996-10-07,40867
-443677,True,Parfitt,Staff,1987-10-08,40867
+443677,TRUE,Parfitt,Senior Staff,1996-10-07,40867
+443677,TRUE,Parfitt,Staff,1987-10-08,40867
 443681,Jaroslava,Marwedel,Engineer,1992-07-27,40000
 443681,Jaroslava,Marwedel,Senior Engineer,1999-07-28,40000
 443686,Tokuyasu,Polajnar,Senior Engineer,1989-12-06,50650
@@ -53591,8 +53591,8 @@ emp_no,first_name,last_name,title,from_date,salary
 445835,Mostafa,Heydon,Staff,1991-08-01,40000
 445840,Marko,Czaja,Senior Staff,1994-12-10,83635
 445840,Marko,Czaja,Staff,1985-12-10,83635
-445843,True,Foong,Senior Staff,1994-07-31,48052
-445843,True,Foong,Staff,1986-07-31,48052
+445843,TRUE,Foong,Senior Staff,1994-07-31,48052
+445843,TRUE,Foong,Staff,1986-07-31,48052
 445844,Jeane,Slobodova,Engineer,1988-09-18,40000
 445844,Jeane,Slobodova,Senior Engineer,1996-09-18,40000
 445848,Qunsheng,Emden,Engineer,1986-03-15,40000
@@ -57719,7 +57719,7 @@ emp_no,first_name,last_name,title,from_date,salary
 464695,Lech,Angel,Senior Engineer,1994-06-02,60781
 464698,Serenella,Renear,Assistant Engineer,1987-11-10,60370
 464698,Serenella,Renear,Engineer,1994-11-10,60370
-464699,True,Barriga,Technique Leader,1990-12-22,41843
+464699,TRUE,Barriga,Technique Leader,1990-12-22,41843
 464701,Hongzhu,Paludetto,Senior Staff,1995-03-09,77627
 464701,Hongzhu,Paludetto,Staff,1988-03-08,77627
 464708,Taizo,Bierman,Staff,1996-02-11,78674
@@ -60660,7 +60660,7 @@ emp_no,first_name,last_name,title,from_date,salary
 478232,Teruyuki,Beznosov,Engineer,1992-12-30,49219
 478234,Mayuri,Bach,Engineer,1987-01-24,52177
 478234,Mayuri,Bach,Senior Engineer,1992-01-24,52177
-478239,True,Lieberherr,Engineer,1988-04-15,40000
+478239,TRUE,Lieberherr,Engineer,1988-04-15,40000
 478241,Zito,Baik,Senior Staff,1993-07-13,40000
 478241,Zito,Baik,Staff,1987-07-14,40000
 478243,Krisda,Osgood,Senior Staff,1996-06-24,57668
